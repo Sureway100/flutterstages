@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kotlintwo</string>
+    <string name="welcome_header">Hello From Android</string>
+</resources>
